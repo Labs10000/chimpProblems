@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chimp": "^0.39.0",
+    "request": "^2.73.0"
+  }
+}
